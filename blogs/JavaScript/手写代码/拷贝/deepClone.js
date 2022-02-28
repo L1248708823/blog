@@ -19,4 +19,4 @@ const a = {
 const b = deepClone(a)
 const c = a
 
-console.log(a===b,a===c,b);
+console.log(a===b,a===c,b, a); 
